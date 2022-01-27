@@ -37,7 +37,7 @@ figure {
 
 aside {
     grid-area: footer;
-    
+    padding-bottom: 2.7778rem;
 }
 
 article {
